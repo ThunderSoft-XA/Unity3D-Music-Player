@@ -6,6 +6,8 @@ Maintainer: Kou Zhiwu、YongRong、YanShiqin、FangBo.
 
 Start date: April 24th, 2019.
 
+SDK tools:Qualcomm 3D Audio Plugin for Unity
+
 Function description:
 Using this audio plugin to develop a music player based on Unity for music playback, tentative and other functions.
 
